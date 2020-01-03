@@ -1,1 +1,4 @@
 node_modules
+dist
+dist/app.bundle.js
+dist/print.bundle.js
